@@ -3,7 +3,7 @@ id: 35
 title: 'Are London cyclists really six times healthier?'
 date: '2016-03-04T13:00:09+00:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=35'
 permalink: /2016/03/04/are-london-cyclists-really-six-times-healthier/
 categories:

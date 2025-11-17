@@ -3,7 +3,7 @@ id: 278
 title: 'A guide to buying kids’ bikes'
 date: '2016-05-27T14:08:14+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=278'
 permalink: /2016/05/27/a-guide-to-buying-kids-bikes/
 categories:

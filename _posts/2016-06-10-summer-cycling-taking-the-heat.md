@@ -3,7 +3,7 @@ id: 316
 title: 'Summer cycling &#8211; taking the heat'
 date: '2016-06-10T14:56:52+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=316'
 permalink: /2016/06/10/summer-cycling-taking-the-heat/
 categories:

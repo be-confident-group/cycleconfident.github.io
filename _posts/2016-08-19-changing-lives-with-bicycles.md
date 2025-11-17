@@ -3,7 +3,7 @@ id: 353
 title: 'Changing lives with bicycles'
 date: '2016-08-19T14:02:47+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=353'
 permalink: /2016/08/19/changing-lives-with-bicycles/
 categories:

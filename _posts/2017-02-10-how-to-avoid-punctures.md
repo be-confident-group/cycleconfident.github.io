@@ -3,7 +3,7 @@ id: 601
 title: 'Beginner&#8217;s blog 4: How to avoid a puncture'
 date: '2017-02-10T14:09:49+00:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=601'
 permalink: /2017/02/10/how-to-avoid-punctures/
 categories:

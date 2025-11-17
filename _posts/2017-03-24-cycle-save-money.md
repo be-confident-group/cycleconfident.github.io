@@ -3,7 +3,7 @@ id: 994
 title: 'How many ways can you save time and money by cycling?'
 date: '2017-03-24T12:55:26+00:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=994'
 permalink: /2017/03/24/cycle-save-money/
 categories:

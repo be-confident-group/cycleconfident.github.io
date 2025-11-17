@@ -3,7 +3,7 @@ id: 720
 title: 'Some inspirational thoughts on winter cycling commutes'
 date: '2016-11-25T14:45:51+00:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=720'
 permalink: /2016/11/25/inspirations-for-winter-cycling-commutes/
 categories:

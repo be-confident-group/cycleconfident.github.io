@@ -3,7 +3,7 @@ id: 371
 title: 'A nifty new app for puncture roadside rescue'
 date: '2016-08-05T16:48:00+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=371'
 permalink: /2016/08/05/a-nifty-new-app-for-roadside-puncture-rescue/
 categories:

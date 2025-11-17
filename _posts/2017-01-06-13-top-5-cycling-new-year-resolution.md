@@ -3,7 +3,7 @@ id: 907
 title: 'Top 5 cycling new year resolutions'
 date: '2017-01-06T13:00:23+00:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=907'
 permalink: /2017/01/06/13-top-5-cycling-new-year-resolution/
 categories:

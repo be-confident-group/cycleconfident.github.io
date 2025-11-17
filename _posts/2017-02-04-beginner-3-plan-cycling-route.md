@@ -3,7 +3,7 @@ id: 918
 title: 'Beginner&#8217;s blog 3: How to plan a cycling route'
 date: '2017-02-04T15:30:36+00:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=918'
 permalink: /2017/02/04/beginner-3-plan-cycling-route/
 categories:

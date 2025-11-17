@@ -3,7 +3,7 @@ id: 672
 title: 'Diamond bike frame'
 date: '2016-12-16T13:00:20+00:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=672'
 permalink: /2016/12/16/diamond-bike-frame/
 categories:

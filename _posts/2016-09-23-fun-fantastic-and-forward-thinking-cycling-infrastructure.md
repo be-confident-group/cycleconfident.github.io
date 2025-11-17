@@ -3,7 +3,7 @@ id: 420
 title: 'Fun, fantastic and forward-thinking cycling infrastructure'
 date: '2016-09-23T13:00:01+01:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=420'
 permalink: /2016/09/23/fun-fantastic-and-forward-thinking-cycling-infrastructure/
 categories:

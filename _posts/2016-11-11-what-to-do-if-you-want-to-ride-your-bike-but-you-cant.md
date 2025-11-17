@@ -3,7 +3,7 @@ id: 552
 title: 'What to do if you want to ride your bike but can&#8217;t'
 date: '2016-11-11T13:13:19+00:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=552'
 permalink: /2016/11/11/what-to-do-if-you-want-to-ride-your-bike-but-you-cant/
 categories:

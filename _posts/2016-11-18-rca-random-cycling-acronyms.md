@@ -3,7 +3,7 @@ id: 590
 title: 'RCA (Random Cycling Acronyms)'
 date: '2016-11-18T13:49:14+00:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=590'
 permalink: /2016/11/18/rca-random-cycling-acronyms/
 categories:

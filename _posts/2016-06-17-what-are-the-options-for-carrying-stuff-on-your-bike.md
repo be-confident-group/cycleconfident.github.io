@@ -3,7 +3,7 @@ id: 318
 title: 'The best options for carrying stuff on your bike'
 date: '2016-06-17T19:03:42+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=318'
 permalink: /2016/06/17/what-are-the-options-for-carrying-stuff-on-your-bike/
 categories:

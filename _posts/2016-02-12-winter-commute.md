@@ -3,7 +3,7 @@ id: 55
 title: 'Gearing up for the winter commute'
 date: '2016-02-12T13:00:25+00:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=55'
 permalink: /2016/02/12/winter-commute/
 categories:

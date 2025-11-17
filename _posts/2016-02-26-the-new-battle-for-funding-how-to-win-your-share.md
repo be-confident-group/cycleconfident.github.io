@@ -3,7 +3,7 @@ id: 59
 title: 'The new battle for funding: How to win your share'
 date: '2016-02-26T13:00:52+00:00'
 author: dshowell
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=59'
 permalink: /2016/02/26/the-new-battle-for-funding-how-to-win-your-share/
 categories:

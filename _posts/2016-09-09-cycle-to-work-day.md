@@ -3,7 +3,7 @@ id: 363
 title: 'Cycle to work day: how to get involved'
 date: '2016-09-09T13:00:11+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=363'
 permalink: /2016/09/09/cycle-to-work-day/
 categories:

@@ -3,7 +3,7 @@ id: 355
 title: '7 cycling myths debunked'
 date: '2016-07-29T17:07:34+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=355'
 permalink: /2016/07/29/7-cycling-myths-debunked/
 categories:

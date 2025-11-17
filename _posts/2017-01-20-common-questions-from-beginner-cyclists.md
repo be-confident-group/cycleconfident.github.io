@@ -3,7 +3,7 @@ id: 598
 title: 'Beginner&#8217;s Blog 1: Common questions from beginner cyclists'
 date: '2017-01-20T13:24:16+00:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=598'
 permalink: /2017/01/20/common-questions-from-beginner-cyclists/
 categories:

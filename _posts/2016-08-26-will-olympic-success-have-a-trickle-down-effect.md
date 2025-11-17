@@ -3,7 +3,7 @@ id: 389
 title: 'Will Olympic success have a trickle down effect?'
 date: '2016-08-26T16:57:27+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=389'
 permalink: /2016/08/26/will-olympic-success-have-a-trickle-down-effect/
 categories:

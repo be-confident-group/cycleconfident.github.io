@@ -3,7 +3,7 @@ id: 338
 title: 'E-bikes: who said it’s cheating?'
 date: '2016-07-15T13:00:31+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=338'
 permalink: /2016/07/15/e-bikes-who-said-its-cheating/
 categories:

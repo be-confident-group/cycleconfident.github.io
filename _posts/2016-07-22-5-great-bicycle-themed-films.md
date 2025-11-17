@@ -3,7 +3,7 @@ id: 340
 title: '5 great bicycle-themed films'
 date: '2016-07-22T13:00:00+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=340'
 permalink: /2016/07/22/5-great-bicycle-themed-films/
 categories:

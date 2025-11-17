@@ -3,7 +3,7 @@ id: 549
 title: 'Beginner&#8217;s blog 2: How to get your friends to start cycling'
 date: '2017-01-27T13:15:47+00:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=549'
 permalink: /2017/01/27/how-to-get-your-friends-to-start-cycling/
 categories:

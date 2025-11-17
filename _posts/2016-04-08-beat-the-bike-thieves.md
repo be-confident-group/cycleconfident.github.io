@@ -3,7 +3,7 @@ id: 197
 title: 'Beat the bike thieves'
 date: '2016-04-08T13:01:35+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=197'
 permalink: /2016/04/08/beat-the-bike-thieves/
 categories:

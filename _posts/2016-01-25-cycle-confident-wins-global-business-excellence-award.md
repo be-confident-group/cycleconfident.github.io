@@ -3,7 +3,7 @@ id: 109
 title: 'Cycle Confident wins Excellence Award'
 date: '2016-01-25T14:28:03+00:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=109'
 permalink: /2016/01/25/cycle-confident-wins-global-business-excellence-award/
 categories:

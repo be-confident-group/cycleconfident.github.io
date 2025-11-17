@@ -3,7 +3,7 @@ id: 859
 title: 'Give the gift of wheel building knowledge'
 date: '2016-12-05T12:22:51+00:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=859'
 permalink: /2016/12/05/give-gift-wheel-building-knowledge/
 categories:

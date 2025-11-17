@@ -3,7 +3,7 @@ id: 837
 title: 'A guide to winter commuting by bike'
 date: '2016-12-23T13:00:40+00:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=837'
 permalink: /2016/12/23/how-to-commute-by-cycling-in-the-winter/
 categories:

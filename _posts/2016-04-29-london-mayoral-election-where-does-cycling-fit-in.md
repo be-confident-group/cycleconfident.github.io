@@ -3,7 +3,7 @@ id: 230
 title: 'London mayoral election-where does cycling fit in?'
 date: '2016-04-29T12:04:53+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=230'
 permalink: /2016/04/29/london-mayoral-election-where-does-cycling-fit-in/
 categories:

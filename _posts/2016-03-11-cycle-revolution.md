@@ -3,7 +3,7 @@ id: 163
 title: 'The Cycle Confident tent is coming to Cycle Revolution at the Design Museum'
 date: '2016-03-11T13:46:33+00:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=163'
 permalink: /2016/03/11/cycle-revolution/
 categories:

@@ -3,7 +3,7 @@ id: 596
 title: 'How to love riding in the rain'
 date: '2016-11-04T13:42:45+00:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=596'
 permalink: /2016/11/04/how-to-love-riding-in-the-rain/
 categories:

@@ -3,7 +3,7 @@ id: 687
 title: 'Top 10 hills to avoid/visit in London'
 date: '2017-01-13T13:00:01+00:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=687'
 permalink: /2017/01/13/top-10-hills-to-avoid-visit-in-london/
 categories:

@@ -3,7 +3,7 @@ id: 252
 title: 'Cycling with small children'
 date: '2016-05-13T16:11:00+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=252'
 permalink: /2016/05/13/cycling-with-small-children/
 categories:

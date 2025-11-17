@@ -3,7 +3,7 @@ id: 399
 title: 'Don’t just ride to work, ride for work'
 date: '2016-09-16T13:00:26+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=399'
 permalink: /2016/09/16/dont-just-ride-to-work-ride-for-work/
 categories:

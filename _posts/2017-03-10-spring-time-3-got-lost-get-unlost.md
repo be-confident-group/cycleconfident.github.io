@@ -3,7 +3,7 @@ id: 930
 title: 'Challenging ride blog 3: Got lost, get unlost'
 date: '2017-03-10T12:28:10+00:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=930'
 permalink: /2017/03/10/spring-time-3-got-lost-get-unlost/
 categories:

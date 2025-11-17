@@ -3,7 +3,7 @@ id: 392
 title: '5 essential cycling documentaries'
 date: '2016-09-30T13:00:27+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=392'
 permalink: /2016/09/30/5-essential-cycling-documentaries/
 categories:

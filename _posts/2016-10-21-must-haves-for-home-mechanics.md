@@ -3,7 +3,7 @@ id: 426
 title: 'Must have&#8217;s for home mechanics'
 date: '2016-10-21T13:00:24+01:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=426'
 permalink: /2016/10/21/must-haves-for-home-mechanics/
 categories:

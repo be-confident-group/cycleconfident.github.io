@@ -3,7 +3,7 @@ id: 275
 title: 'Five cracking bike-themed reads'
 date: '2016-06-03T13:00:18+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=275'
 permalink: /2016/06/03/five-brilliant-books-about-bikes/
 categories:

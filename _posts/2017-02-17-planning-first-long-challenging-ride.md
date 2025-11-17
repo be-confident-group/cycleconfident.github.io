@@ -3,7 +3,7 @@ id: 934
 title: 'Challenging ride blog 1: Planning'
 date: '2017-02-17T13:11:18+00:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=934'
 permalink: /2017/02/17/planning-first-long-challenging-ride/
 categories:

@@ -3,7 +3,7 @@ id: 57
 title: 'Could 2016 be the &#8216;Year of the bike&#8217;?'
 date: '2016-02-19T13:00:55+00:00'
 author: dshowell
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=57'
 permalink: /2016/02/19/could-2016-be-the-year-of-the-bike/
 categories:

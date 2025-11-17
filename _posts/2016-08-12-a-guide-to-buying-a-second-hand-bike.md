@@ -3,7 +3,7 @@ id: 360
 title: 'A guide to buying a second hand bike'
 date: '2016-08-12T13:00:38+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=360'
 permalink: /2016/08/12/a-guide-to-buying-a-second-hand-bike/
 categories:

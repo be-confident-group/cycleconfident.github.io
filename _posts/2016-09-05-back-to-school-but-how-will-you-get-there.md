@@ -3,7 +3,7 @@ id: 386
 title: 'Back to school: but how?'
 date: '2016-09-05T14:46:25+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=386'
 permalink: /2016/09/05/back-to-school-but-how-will-you-get-there/
 categories:

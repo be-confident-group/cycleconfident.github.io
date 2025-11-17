@@ -3,7 +3,7 @@ id: 312
 title: 'Get on your bike and ride social'
 date: '2016-07-01T14:50:04+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=312'
 permalink: /2016/07/01/get-on-your-bike-and-ride-social/
 categories:

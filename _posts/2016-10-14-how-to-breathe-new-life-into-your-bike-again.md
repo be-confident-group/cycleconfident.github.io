@@ -3,7 +3,7 @@ id: 428
 title: 'How to breathe new life into your bike'
 date: '2016-10-14T11:24:12+01:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=428'
 permalink: /2016/10/14/how-to-breathe-new-life-into-your-bike-again/
 categories:

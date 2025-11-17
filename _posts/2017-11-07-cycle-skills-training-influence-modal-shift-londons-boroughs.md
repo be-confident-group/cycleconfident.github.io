@@ -3,7 +3,7 @@ id: 1108
 title: 'Does Cycle Skills Training Influence a Modal Shift in London’s Boroughs?'
 date: '2017-11-07T15:06:13+00:00'
 author: dshowell
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=1108'
 permalink: /2017/11/07/cycle-skills-training-influence-modal-shift-londons-boroughs/
 categories:

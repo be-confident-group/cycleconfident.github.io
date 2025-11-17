@@ -3,7 +3,7 @@ id: 266
 title: 'Tune up your ride'
 date: '2016-05-20T11:19:16+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=266'
 permalink: /2016/05/20/tune-up-your-ride/
 categories:

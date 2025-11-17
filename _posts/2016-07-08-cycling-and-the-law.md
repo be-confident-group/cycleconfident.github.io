@@ -3,7 +3,7 @@ id: 310
 title: 'Cycling and the law: the what, where, when and how'
 date: '2016-07-08T13:00:39+01:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=310'
 permalink: /2016/07/08/cycling-and-the-law/
 categories:

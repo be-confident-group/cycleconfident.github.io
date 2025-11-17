@@ -3,7 +3,7 @@ id: 127
 title: 'There’s safety in numbers and the numbers are growing'
 date: '2016-02-05T13:41:10+00:00'
 author: laura
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=127'
 permalink: /2016/02/05/theres-safety-in-numbers-and-the-numbers-are-growing/
 categories:

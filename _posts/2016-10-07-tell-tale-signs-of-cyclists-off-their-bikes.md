@@ -3,7 +3,7 @@ id: 430
 title: 'Tell tale signs of cyclists off their bikes'
 date: '2016-10-07T13:00:36+01:00'
 author: felix
-layout: post
+
 guid: 'http://blog.cycleconfident.com/?p=430'
 permalink: /2016/10/07/tell-tale-signs-of-cyclists-off-their-bikes/
 categories:
