@@ -1,0 +1,20 @@
+---
+id: 127
+title: 'There’s safety in numbers and the numbers are growing'
+date: '2016-02-05T13:41:10+00:00'
+author: laura
+layout: post
+guid: 'http://blog.cycleconfident.com/?p=127'
+permalink: /2016/02/05/theres-safety-in-numbers-and-the-numbers-are-growing/
+categories:
+    - News
+tags:
+    - Cycling
+    - News
+---
+
+**When I first started commuting by bike in London fifteen years ago, it seemed a fairly lonely pursuit, with fellow cyclists few and far between. Nowadays if you travel on a busy route into the capital you’re likely to find yourself in a peloton several dozen strong, packed into the advanced stop box at traffic lights.**## Cyclists travelling into London during rush hour will outnumber drivers doing the same within the next few years
+
+So claims a recent report from Transport for London, if current trends are maintained. The full report can be found [here](http://content.tfl.gov.uk/travel-in-london-report-8.pdf), and the BBC has covered the story in the form of an [experimental new video format](http://www.bbc.co.uk/news/uk-england-london-35475318) (less exciting than it sounds). TfL described the change in commuting behaviour as “a feat unprecedented in any major city”, which might be overdoing it a bit, but there’s no denying that the period in question, 2000 to 2014, has seen an enormous shift in the ways in which people choose to move around London. \[caption id="attachment\_130" align="alignleft" width="324"\][![](http://blog.cycleconfident.com/wp-content/uploads/2016/02/8008925880_ed4a5fbbab-300x179.jpg)](https://blog.cycleconfident.com/wp-content/uploads/2016/02/8008925880_ed4a5fbbab.jpg) [Commuter crowd](https://www.flickr.com/photos/carltonreid/8008925880/)\[/caption\] Numbers of drivers entering central London each day have more than halved over that period, in no small part thanks to the introduction of the congestion charge in 2003. Even more dramatic has been the rise in numbers of cyclists, trebling from 12,000 to 36,000, with an acceleration in that growth from 2008 onwards. This is good news for the city as a whole for a number of reasons. It should help to improve [London’s poor air quality](http://www.citylab.com/commute/2016/01/how-london-exceeded-its-entire-2016-eu-pollution-limit-in-just-one-week/423657/), as well as having an overall positive impact on the health of the population. Evidence of more cyclists on the roads also creates greater impetus for higher levels of investment in cycling infrastructure to accommodate their growing ranks. ## We're safer in numbers
+
+For each individual cyclist there is a further crucial effect - the more cyclists there are on the roads, the safer cycling becomes. A number of studies has shown that steep increases in cycling can actually result in a reduction in the number of cyclist casualties on the roads. [This study](http://injuryprevention.bmj.com/content/9/3/205.full.pdf+html) for example, which compared a number of cities in the US and Europe, concluded that motorists are less likely to collide with someone cycling or walking if more people cycle or walk. The precise reasons for this are difficult to pin down, but it seems likely that motorists adjust their driving in the presence of greater numbers of bikes, because they are more aware of cyclists, are more accustomed to how cyclists use the roads, and perhaps because each driver is statistically more likely to also be a cyclist. The “safety in numbers” effect has an obvious if initially counterintuitive outcome; that increasing the number of cyclists on London’s roads is an effective strategy towards making cycling safer. Of course the number of deaths and injuries to cyclists remains unacceptably high, but statistically cycling is not a particularly risky activity, and the more people get on their bikes, the safer it becomes.

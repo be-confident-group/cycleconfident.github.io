@@ -1,0 +1,23 @@
+---
+id: 57
+title: 'Could 2016 be the &#8216;Year of the bike&#8217;?'
+date: '2016-02-19T13:00:55+00:00'
+author: dshowell
+layout: post
+guid: 'http://blog.cycleconfident.com/?p=57'
+permalink: /2016/02/19/could-2016-be-the-year-of-the-bike/
+categories:
+    - Uncategorised
+tags:
+    - Councils
+---
+
+**What do we want out of 2016? How about getting fitter, saving money, spending less time stuck in traffic jams and reducing our carbon footprint? With cycling, it's all possible ... you could call it the grand slam of New Year's resolutions! But what's stopping thousands of people from leaving their homes on a shiny new bike ... perhaps for the first time in years?**![London bikes](http://blog.cycleconfident.com/wp-content/uploads/2016/02/London-bikes-300x200.jpg)If you're a local authority road safety officer or transport manager, then you may be concerned about why cycling hasn't already taken off the way it might have done. After all, you've got the wind behind you, in terms of economic, health and environmental plus points. So what's going on - and how can your efforts coax more cyclists to pedal confidently onto their local streets? A while back, the government's **[British Social Attitudes survey](http://www.ctc.org.uk/resources/ctc-cycling-statistics)** discovered that 67% of non-cyclists thought that cycling was too dangerous. Even 18-24 year olds - the adults with the most energy allegedly - were highly cautious, with almost half expressing major concern. ## Fewer injuries than gardening
+
+Those emotions can be pretty entrenched, even when the facts say something different. [ CTC](http://ctc.org.uk/), the national cycling charity, believes that traffic volumes, speeds and other factors can make cycling feel and look more dangerous than it actually is. In fact, CTC reports that people are more likely to be injured playing tennis, using a rowing machine ... or gardening. So how can individuals get past their fears - and what can council teams do to help them on their way? London has been leading by example. More people are now riding bikes than at any point since records began - with numbers growing at 5% in a year. Over 600,000 cycle journeys are made every day. Behind these impressive figures is an exciting story that's continuing in many London boroughs. ## **Confidence-building is key**
+
+Many of these London councils are focusing on training for everyday bike owners of all ages - to build each person's confidence, ability and road sense, so they overcome their fears and have a great cycling experience. And when you look closely, you can see a correlation between the heartening upsurge in cycling in the capital and the behind-the-scenes training that's been gathering pace. In 2010/11, fewer than 500 adults and children received training across half a dozen or so London boroughs. Roll on to 2015/16 and that number is on course to hit 18,000 people being trained per year. ## **Every tiny details matters**
+
+But these forward-looking boroughs don't simply stick up the posters and then put out the cones. Successful cycle training doesn't work like that. It's about all the tiny details that make every training session exceptional. This takes energy, planning, saddlebags of imagination - and usually some outside expertise and resources from a thoughtful cycle training partner. The London experience shows that attention to detail really matters, from how to target specific groups and come up with fresh ideas, to making it easy for people to find out about sessions - and place a booking. If people enjoy the end-to-end experience, they won't just be cycling regularly - they'll encourage their friends and family. Used wisely, social media can play a part in that too. ## **[Contact us for your free eBook today](http://www.cycleconfident.com/contact/)**
+
+Practical policies, ongoing funding, quality of service, innovative ideas and giving great value can all be achieved when local authorities apply best practice consistently. But what does best practice look like? Road Safety Officers can get the answers by contacting us for a free copy of **[Cycle Training: Switching into Top Gear](http://www.cycleconfident.com/contact/)**, the best practice guide. As well as touching on the highly positive UK cycling scene, the eBook charts the phenomenal success of London and provides a checklist so UK local authorities can rate themselves and work towards best practice. The start of a new year is a great time to review the cycle training provision in your area. The eBook helps you to identify the gaps in the cycle training provision in your local authority area - and suggests how you can have your best year yet.
